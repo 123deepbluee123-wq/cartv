@@ -5,7 +5,7 @@
     {
       "name": "Beyaz TV",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/BeyazTV.tr.png",
-      "group": "Ulusal",
+      "group": "Ulusall",
       "epgId": "BeyazTV.tr",
       "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8"
     },
