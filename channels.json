@@ -1,19 +1,7 @@
 {
   "channels": [
-            {
-      "name": "FB TV",
-      "logo": "https://dsmart-static-v2.ercdn.net/content/g/fi/13391/Thumbnail.png",
-      "group": "Spor",
-      "epgId": "fb-tv",
-      "url": "https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/playlist.m3u8"
-    },
-    {
-      "name": "Ekol Sports",
-      "logo": "https://i.hizliresim.com/2n69f3f.jpg",
-      "group": "Spor",
-      "epgId": "eklsprt-tv",
-      "url": "https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8"
-    },
+          
+   
     {
       "name": "Beyaz TV",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/BeyazTV.tr.png",
@@ -56,14 +44,7 @@
       "epgId": "Kanal7.tr",
       "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8"
     },
-    {
-      "name": "Redbull TV",
-      "logo": "https://i.mjh.nz/.images/redbull-tv.png",
-      "group": "Belgesel",
-      "epgId": "mjh-redbull-tv",
-      "url": "https://i.mjh.nz/.r/redbull-tv.m3u8"
-    },
-    {
+        {
       "name": "Kanal D",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/KanalD.tr.png",
       "group": "Ulusal",
@@ -105,13 +86,7 @@
       "epgId": "ShowTV.tr",
       "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8"
     },
-    {
-      "name": "Sports TV",
-      "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/SportsTV.tr.png",
-      "group": "Spor",
-      "epgId": "SportsTV.tr",
-      "url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
-    },
+    
     {
       "name": "Star",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/StarTV.tr.png",
@@ -119,13 +94,7 @@
       "epgId": "StarTV.tr",
       "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8"
     },
-    {
-      "name": "TRT 3",
-      "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRT3.tr.png",
-      "group": "Spor",
-      "epgId": "TRT3.tr",
-      "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8"
-    },
+    
     {
       "name": "TRT Çocuk",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRTCocuk.tr.png",
@@ -133,13 +102,7 @@
       "epgId": "TRTCocuk.tr",
       "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
     },
-    {
-      "name": "TRT Türk",
-      "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRTTurk.tr.png",
-      "group": "Belgesel",
-      "epgId": "TRTTurk.tr",
-      "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8"
-    },
+    
     {
       "name": "TV 100",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV100.tr.png",
@@ -287,13 +250,7 @@
       "group": "Ulusal",
       "epgId": ""
     },
-    {
-      "name": "TRT TURK",
-      "url": "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8",
-      "logo": "https://i.ibb.co/cSNfr17C/trturk.png",
-      "group": "Ulusal",
-      "epgId": ""
-    },
+    
     {
       "name": "KANAL 7",
       "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8",
@@ -329,20 +286,8 @@
       "group": "Ulusal",
       "epgId": ""
     },
-    {
-      "name": "TIVI 6",
-      "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8",
-      "logo": "https://i.ibb.co/2Y3YGXg4/Ads-z-tasar-m-6.png",
-      "group": "Ulusal",
-      "epgId": ""
-    },
-    {
-      "name": "LIFE TV",
-      "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8",
-      "logo": "https://i.ibb.co/9hCVNks/life-tv.png",
-      "group": "Ulusal",
-      "epgId": ""
-    },
+    
+    
     {
       "name": "TRT SPOR",
       "url": "https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8",
@@ -385,13 +330,7 @@
       "group": "Belgesel",
       "epgId": ""
     },
-    {
-      "name": "TRT AVAZ",
-      "url": "https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8",
-      "logo": "https://i.ibb.co/Mnhmxsn/trt-avaz.png",
-      "group": "Belgesel",
-      "epgId": ""
-    },
+    
     {
       "name": "TRT HABER",
       "url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8",
