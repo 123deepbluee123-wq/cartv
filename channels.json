@@ -600,4 +600,14 @@
       "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/250px-Tv8_Yeni_Logo.png",
       "group": "Ulusal",
       "epgId": ""
-    },
+      },
+    {
+      "name": "Türk Filmleri",
+      "youtubeId": "5oBspbl9TWE",
+      "logo": "https://i.ytimg.com/vi/5oBspbl9TWE/sddefault.jpg",
+      "group": "Filmler",
+      "epgId": ""
+    }      
+    
+      ]
+}
