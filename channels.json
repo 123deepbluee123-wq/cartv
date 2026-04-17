@@ -22,6 +22,14 @@
       "epgId": "HaberturkTV.tr",
       "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
     },
+
+    {
+      "name": "2. Haber Türk 1",
+      "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/HaberturkTV.tr.png",
+      "group": "Ulusal Haber",
+      "epgId": "HaberturkTV.tr",
+      "youtubeId": "RNVNlJSUFoE"
+    },
    
     {
       "name": "9.ATV HD 2",
@@ -51,6 +59,13 @@
       "group": "Ulusal",
       "epgId": "KanalD.tr",
       "url": "https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8"
+    },
+    {
+      "name": "2.Kanal D-2",
+      "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/KanalD.tr.png",
+      "group": "Ulusal",
+      "epgId": "KanalD.tr",
+      "youtubeId": "DWTZdz4LQbY"
     },
     {
       "name": "Minika Çocuk",
@@ -350,6 +365,13 @@
     {
       "name": "5.TGRT HABER HD",
       "url": "https://canli.tgrthaber.com/tgrt.m3u8",
+      "logo": "https://i.ibb.co/KYdPPbs/Ads-z-tasar-m-13.png",
+      "group": "Ulusal Haber",
+      "epgId": ""
+    },
+    {
+      "name": "5.TGRT HABER HD 1",
+      "youtubeId": "0SAUIyvNA5s",
       "logo": "https://i.ibb.co/KYdPPbs/Ads-z-tasar-m-13.png",
       "group": "Ulusal Haber",
       "epgId": ""
