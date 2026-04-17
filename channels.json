@@ -60,14 +60,7 @@
       "epgId": "KanalD.tr",
       "url": "https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8"
     },
-    {
-      "name": "2.Kanal D-2",
-      "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/KanalD.tr.png",
-      "group": "Ulusal",
-      "epgId": "KanalD.tr",
-      "youtubeId": "DWTZdz4LQbY"
-    },
-    {
+      {
       "name": "Minika Çocuk",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/MinikaCocuk.tr.png",
       "group": "Çocuk & Eğitim",
@@ -137,6 +130,13 @@
       "group": "Ulusal Haber",
       "epgId": "TV100.tr",
       "url": "https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8"
+    },
+     {
+      "name": "3.TV 100-2",
+      "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV100.tr.png",
+      "group": "Ulusal Haber",
+      "epgId": "TV100.tr",
+      "url": "https://tv.ensonhaber.com/tv100/tv100_360p.m3u8"
     },
     {
       "name": "KRAL POP",
@@ -357,6 +357,13 @@
     {
       "name": "6. AKIT TV",
       "url": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8",
+      "logo": "https://i.ibb.co/3mPpV9kp/Ads-z-tasar-m-11.png",
+      "group": "Ulusal Haber",
+      "epgId": ""
+    },
+    {
+      "name": "6. AKIT TV-1",
+      "youtubeId": "X8Ib4ype8w8",
       "logo": "https://i.ibb.co/3mPpV9kp/Ads-z-tasar-m-11.png",
       "group": "Ulusal Haber",
       "epgId": ""
