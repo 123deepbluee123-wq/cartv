@@ -23,6 +23,13 @@
       "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
     },
     {
+      "name": "12.Haber Türk",
+      "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/HaberturkTV.tr.png",
+      "group": "Ulusal",
+      "epgId": "HaberturkTV.tr",
+      "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
+    },
+    {
       "name": "9.ATV HD 2",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/ATV.tr.png",
       "group": "Ulusal",
@@ -103,7 +110,7 @@
     },
     
     {
-      "name": "TV 100",
+      "name": "13.TV 100",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV100.tr.png",
       "group": "Ulusal Haber",
       "epgId": "TV100.tr",
@@ -253,7 +260,7 @@
       "epgId": ""
     },
     {
-      "name": "360",
+      "name": "18.360",
       "url": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8",
       "logo": "https://i.ibb.co/s3gJCGL/360.png",
       "group": "Ulusal",
@@ -305,7 +312,7 @@
       "epgId": ""
     },
         {
-      "name": "HABERTURK",
+      "name": "14.HABERTURK",
       "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8",
       "logo": "https://i.ibb.co/Q79Lh4Cb/Ads-z-tasar-m-9.png",
       "group": "Ulusal Haber",
@@ -319,14 +326,14 @@
       "epgId": ""
     },
     {
-      "name": "TVNET",
+      "name": "15.TVNET",
       "url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8",
       "logo": "https://i.ibb.co/RpyvJDrM/Ads-z-tasar-m-12.png",
       "group": "Ulusal Haber",
       "epgId": ""
     },
     {
-      "name": "AKIT TV",
+      "name": "16.AKIT TV",
       "url": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8",
       "logo": "https://i.ibb.co/3mPpV9kp/Ads-z-tasar-m-11.png",
       "group": "Ulusal Haber",
@@ -334,14 +341,14 @@
     },
    
     {
-      "name": "TGRT HABER HD",
+      "name": "17.TGRT HABER HD",
       "url": "https://canli.tgrthaber.com/tgrt.m3u8",
       "logo": "https://i.ibb.co/KYdPPbs/Ads-z-tasar-m-13.png",
       "group": "Ulusal Haber",
       "epgId": ""
     },
     {
-      "name": "TURKHABER",
+      "name": "18.TURKHABER",
       "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8",
       "logo": "https://i.ibb.co/1JMFDj8X/Ads-z-tasar-m-14.png",
       "group": "Ulusal Haber",
@@ -398,10 +405,17 @@
       "epgId": ""
     },
     {
-      "name": "10.A HABER HD",
+      "name": "A HABER HD",
       "youtubeId": "nmY9i63t6qo",
       "logo": "https://i.ytimg.com/vi/nmY9i63t6qo/sddefault.jpg",
       "group": "Ulusal Haber",
+      "epgId": ""
+    },
+     {
+      "name": "10.A HABER HD",
+      "youtubeId": "nmY9i63t6qo",
+      "logo": "https://i.ytimg.com/vi/nmY9i63t6qo/sddefault.jpg",
+      "group": "Ulusal",
       "epgId": ""
     },
         {
@@ -426,10 +440,17 @@
       "epgId": ""
     },
     {
-      "name": "12.CNN Türk",
+      "name": "CNN Türk",
       "youtubeId": "6N8_r2uwLEc",
       "logo": "https://i.ytimg.com/vi/6N8_r2uwLEc/sddefault.jpg",
       "group": "Ulusal Haber",
+      "epgId": ""
+    },
+      {
+      "name": "12.CNN Türk",
+      "youtubeId": "6N8_r2uwLEc",
+      "logo": "https://i.ytimg.com/vi/6N8_r2uwLEc/sddefault.jpg",
+      "group": "Ulusal",
       "epgId": ""
     },
     {
@@ -437,6 +458,13 @@
       "youtubeId": "EqoCJ8BPxtE",
       "logo": "https://i.ytimg.com/vi/EqoCJ8BPxtE/sddefault.jpg",
       "group": "Ulusal Haber",
+      "epgId": ""
+    },
+       {
+      "name": "15.Haber Global",
+      "youtubeId": "EqoCJ8BPxtE",
+      "logo": "https://i.ytimg.com/vi/EqoCJ8BPxtE/sddefault.jpg",
+      "group": "Ulusal",
       "epgId": ""
     },
         {
