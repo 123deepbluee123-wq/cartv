@@ -450,21 +450,7 @@
       "group": "Müzik",
       "epgId": ""
     },
-    {
-      "name": "DMAX",
-      "youtubeId": "KMHsPzaj3tk",
-      "logo": "https://i.ytimg.com/vi/KMHsPzaj3tk/sddefault.jpg",
-      "group": "Belgesel",
-      "epgId": ""
-    },
     
-    {
-      "name": "Rhythm Emotion",
-      "youtubeId": "q9iTGiUtYik",
-      "logo": "https://i.ytimg.com/vi/q9iTGiUtYik/sddefault.jpg",
-      "group": "Belgesel",
-      "epgId": ""
-    },
     {
       "name": "Yardımcı Arabalar",
       "youtubeId": "SGeZDZ7TmlY",
@@ -507,13 +493,7 @@
       "group": "Çocuk & Eğitim",
       "epgId": ""
     },
-    {
-      "name": "Rahatlatıcı Müzikler",
-      "youtubeId": "EmdtE7sRMSY",
-      "logo": "https://i.ytimg.com/vi/EmdtE7sRMSY/sddefault.jpg",
-      "group": "Belgesel",
-      "epgId": ""
-    },
+    
     {
       "name": "Sonbahar",
       "youtubeId": "-ZFtmVIDg9I",
