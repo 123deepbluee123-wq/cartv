@@ -104,7 +104,7 @@
     },
     
     {
-      "name": "13.TV 100",
+      "name": "3.TV 100",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV100.tr.png",
       "group": "Ulusal Haber",
       "epgId": "TV100.tr",
@@ -254,7 +254,7 @@
       "epgId": ""
     },
     {
-      "name": "18.360",
+      "name": "Tv 360",
       "url": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8",
       "logo": "https://i.ibb.co/s3gJCGL/360.png",
       "group": "Ulusal Haber",
@@ -313,7 +313,7 @@
       "epgId": ""
     },
     {
-      "name": "24 TV HD",
+      "name": "TV 24 HD",
       "url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
       "logo": "https://i.ibb.co/tHQpWvn/24.png",
       "group": "Ulusal Haber",
