@@ -109,15 +109,14 @@
       "epgId": "TRTCocuk.tr",
       "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
     },
-    
     {
       "name": "3.TV 100",
+      "youtubeId": "ebVRSmBYC60",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV100.tr.png",
       "group": "Ulusal Haber",
-      "epgId": "TV100.tr",
-      "youtubeId": "ebVRSmBYC60"
+      "epgId": ""
     },
-    {
+        {
       "name": "3.TV 100",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV100.tr.png",
       "group": "Ulusal Haber",
