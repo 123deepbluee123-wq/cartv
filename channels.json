@@ -15,13 +15,7 @@
       "epgId": "Spor",
       "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8"
     },
-    {
-      "name": "xxxx",
-      "logo": "https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png",
-      "group": "Spor",
-      "epgId": "Spor",
-      "url": "http://170.62.179.173:8080/live/hsnn1864/rs.2110/35762.m3u8"
-    },
+   
     {
       "name": "2. Haber Türk",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/HaberturkTV.tr.png",
