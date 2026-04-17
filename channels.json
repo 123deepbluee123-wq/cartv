@@ -496,7 +496,7 @@
      {
       "name": "Karadeniz ",
       "youtubeId": "PV1kDalcvVE",
-      "logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
       "group": "Müzik",
       "epgId": ""
     },
@@ -679,7 +679,7 @@
     {
       "name": "Akustik Türküler",
       "youtubeId": "_qm_JqY-6OI",
-      "logo": "https://i.ytimg.com/vi/_qm_JqY-6OI/sddefault.jpg",
+      "X-logo": "https://i.ytimg.com/vi/_qm_JqY-6OI/sddefault.jpg",
       "group": "Müzik",
       "epgId": ""
     },
