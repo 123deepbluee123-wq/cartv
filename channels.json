@@ -209,35 +209,35 @@
       "epgId": ""
     },
     {
-      "name": "9.ATV HD",
+      "name": "9. ATV HD",
       "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/ATV.tr.png",
       "group": "Ulusal",
       "epgId": ""
     },
     {
-      "name": "2.KANAL D",
+      "name": "2. KANAL D",
       "url": "https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8",
       "logo": "https://i.ibb.co/hf2mSz5/kanal-d.png",
       "group": "Ulusal",
       "epgId": ""
     },
     {
-      "name": "4.STAR TV",
+      "name": "4. STAR TV",
       "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8",
       "logo": "https://i.ibb.co/hY3Z8zx/star-tv.png",
       "group": "Ulusal",
       "epgId": ""
     },
     {
-      "name": "5.SHOW TV",
+      "name": "5. SHOW TV",
       "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8",
       "logo": "https://i.ibb.co/Rv0rWhZ/show.png",
       "group": "Ulusal",
       "epgId": ""
     },
     {
-      "name": "2.EURO D",
+      "name": "2. EURO D",
       "url": "https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8",
       "logo": "https://i.ibb.co/jMQTJmh/euro-d.png",
       "group": "Ulusal",
@@ -245,7 +245,7 @@
     },
     
         {
-      "name": "7.KANAL 7",
+      "name": "7. KANAL 7",
       "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8",
       "logo": "https://i.ibb.co/DPVDgvqn/Ads-z-tasar-m-1.png",
       "group": "Ulusal",
@@ -253,7 +253,7 @@
     },
     
     {
-      "name": "6.BEYAZ TV",
+      "name": "6. BEYAZ TV",
       "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8",
       "logo": "https://i.ibb.co/JWMb2kcp/Ads-z-tasar-m-4.png",
       "group": "Ulusal",
@@ -312,7 +312,7 @@
       "epgId": ""
     },
         {
-      "name": "14.HABERTURK",
+      "name": "14. HABERTURK",
       "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8",
       "logo": "https://i.ibb.co/Q79Lh4Cb/Ads-z-tasar-m-9.png",
       "group": "Ulusal Haber",
@@ -326,14 +326,14 @@
       "epgId": ""
     },
     {
-      "name": "15.TVNET",
+      "name": "15. TVNET",
       "url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8",
       "logo": "https://i.ibb.co/RpyvJDrM/Ads-z-tasar-m-12.png",
       "group": "Ulusal Haber",
       "epgId": ""
     },
     {
-      "name": "16.AKIT TV",
+      "name": "16. AKIT TV",
       "url": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8",
       "logo": "https://i.ibb.co/3mPpV9kp/Ads-z-tasar-m-11.png",
       "group": "Ulusal Haber",
@@ -348,7 +348,7 @@
       "epgId": ""
     },
     {
-      "name": "18.TURKHABER",
+      "name": "18. TURKHABER",
       "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8",
       "logo": "https://i.ibb.co/1JMFDj8X/Ads-z-tasar-m-14.png",
       "group": "Ulusal Haber",
@@ -412,7 +412,7 @@
       "epgId": ""
     },
      {
-      "name": "10.A HABER HD",
+      "name": "10. A HABER HD",
       "youtubeId": "nmY9i63t6qo",
       "logo": "https://i.ytimg.com/vi/nmY9i63t6qo/sddefault.jpg",
       "group": "Ulusal",
@@ -447,7 +447,7 @@
       "epgId": ""
     },
       {
-      "name": "12.CNN Türk",
+      "name": "12. CNN Türk",
       "youtubeId": "6N8_r2uwLEc",
       "logo": "https://i.ytimg.com/vi/6N8_r2uwLEc/sddefault.jpg",
       "group": "Ulusal",
@@ -461,7 +461,7 @@
       "epgId": ""
     },
        {
-      "name": "15.Haber Global",
+      "name": "15. Haber Global",
       "youtubeId": "EqoCJ8BPxtE",
       "logo": "https://i.ytimg.com/vi/EqoCJ8BPxtE/sddefault.jpg",
       "group": "Ulusal",
@@ -623,7 +623,7 @@
       "epgId": ""
     },
     {
-      "name": "8.TV8",
+      "name": "8. TV8",
       "url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/250px-Tv8_Yeni_Logo.png",
       "group": "Ulusal",
