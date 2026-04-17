@@ -43,7 +43,7 @@
       "epgId": "Kanal7.tr",
       "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8"
     },
-        {
+    {
       "name": "Kanal D",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/KanalD.tr.png",
       "group": "Ulusal",
@@ -92,8 +92,7 @@
       "group": "Ulusal",
       "epgId": "StarTV.tr",
       "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8"
-    },
-    
+    }, 
     {
       "name": "TRT Çocuk",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRTCocuk.tr.png",
@@ -101,7 +100,6 @@
       "epgId": "TRTCocuk.tr",
       "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
     },
-    
     {
       "name": "TV 100",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV100.tr.png",
@@ -234,8 +232,7 @@
       "logo": "https://i.ibb.co/Rv0rWhZ/show.png",
       "group": "Ulusal",
       "epgId": ""
-    },
-          
+    }, 
     {
       "name": "KANAL 7",
       "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8",
@@ -270,18 +267,14 @@
       "logo": "https://i.ibb.co/5XGy07B3/Ads-z-tasar-m-5.png",
       "group": "Ulusal",
       "epgId": ""
-    },
-    
-    
+    }, 
     {
       "name": "TRT SPOR",
       "url": "https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8",
       "logo": "https://i.ibb.co/WxD4PLG/trt-spor.png",
       "group": "Spor",
       "epgId": ""
-    },
-    
-    
+    },      
     {
       "name": "TJK TV",
       "url": "https://tjktv-live.tjk.org/tjktv_1080p.m3u8",
@@ -295,8 +288,7 @@
       "logo": "https://i.ibb.co/PrkXrRn/tjk-tv.png",
       "group": "Spor",
       "epgId": ""
-    },
-       
+    },       
     {
       "name": "TRT HABER",
       "url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8",
@@ -304,7 +296,7 @@
       "group": "Ulusal Haber",
       "epgId": ""
     },
-        {
+    {
       "name": "HABERTURK",
       "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8",
       "logo": "https://i.ibb.co/Q79Lh4Cb/Ads-z-tasar-m-9.png",
@@ -332,7 +324,7 @@
       "group": "Ulusal Haber",
       "epgId": ""
     },
-        {
+    {
       "name": "TGRT HABER HD",
       "url": "https://canli.tgrthaber.com/tgrt.m3u8",
       "logo": "https://i.ibb.co/KYdPPbs/Ads-z-tasar-m-13.png",
@@ -381,8 +373,7 @@
       "group": "Çocuk & Eğitim",
       "epgId": ""
     },
-    
-        {
+    {
       "name": "A SPOR HD",
       "youtubeId": "mgeW8Qm8-SY",
       "logo": "https://i.ytimg.com/vi/mgeW8Qm8-SY/sddefault.jpg",
@@ -396,7 +387,7 @@
       "group": "Ulusal Haber",
       "epgId": ""
     },
-        {
+    {
       "name": "Bein Sport Haber",
       "youtubeId": "9xVXWLwT0vA",
       "logo": "https://i.ytimg.com/vi/9xVXWLwT0vA/sddefault.jpg",
@@ -410,7 +401,7 @@
       "group": "Çocuk & Eğitim",
       "epgId": ""
     },
-    {
+   {
       "name": "Cartoonito Türkiye",
       "youtubeId": "XDSd6m4SauI",
       "logo": "https://i.ytimg.com/vi/XDSd6m4SauI/sddefault.jpg",
@@ -431,22 +422,21 @@
       "group": "Ulusal Haber",
       "epgId": ""
     },
-           {
+    {
       "name": "Karadeniz Akustik",
       "youtubeId": "Fru_Ss-TqgY",
       "logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
       "group": "Müzik",
       "epgId": ""
     },
-    
-    {
+   {
       "name": "TGRT Belgesel",
       "youtubeId": "j9iJW9c04j4",
       "logo": "https://i.ytimg.com/vi/j9iJW9c04j4/sddefault.jpg",
       "group": "Belgesel",
       "epgId": ""
     },
-        {
+    {
       "name": "Yardımcı Arabalar",
       "youtubeId": "SGeZDZ7TmlY",
       "logo": "https://i.ytimg.com/vi/SGeZDZ7TmlY/sddefault.jpg",
