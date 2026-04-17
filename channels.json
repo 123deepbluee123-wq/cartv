@@ -489,7 +489,7 @@
         {
       "name": "Karadeniz Akustik",
       "youtubeId": "Fru_Ss-TqgY",
-     /* "logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",*/
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
       "group": "Müzik",
       "epgId": ""
     },
