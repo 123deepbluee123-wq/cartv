@@ -124,6 +124,13 @@
       "group": "Ulusal Haber",
       "epgId": ""
     },
+    {
+      "name": "Ulke TV",
+      "youtubeId": "YwUf2IfT4Pw",
+      "logo": "https://ulketvcom.teimg.com/ulketv-com/uploads/2025/07/ulketv-logo-turk-bayragi.png",
+      "group": "Ulusal Haber",
+      "epgId": "ulketv.tr"
+    },
         {
       "name": "3.TV 100-",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV100.tr.png",
