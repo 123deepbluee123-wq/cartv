@@ -1,14 +1,7 @@
 {
   "channels": [
            
-    {
-      "name": "Ekol Sports",
-      "logo": "https://i.hizliresim.com/2n69f3f.jpg",
-      "group": "Spor",
-      "epgId": "eklsprt-tv",
-      "url": "https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8"
-    },
-    {
+       {
       "name": "Beyaz TV",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/BeyazTV.tr.png",
       "group": "Ulusal",
@@ -43,13 +36,7 @@
       "epgId": "Kanal7.tr",
       "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8"
     },
-    {
-      "name": "Redbull TV",
-      "logo": "https://i.mjh.nz/.images/redbull-tv.png",
-      "group": "Belgesel",
-      "epgId": "mjh-redbull-tv",
-      "url": "https://i.mjh.nz/.r/redbull-tv.m3u8"
-    },
+    
     {
       "name": "Kanal D",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/KanalD.tr.png",
@@ -106,13 +93,7 @@
       "epgId": "StarTV.tr",
       "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8"
     },
-    {
-      "name": "TRT 3",
-      "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRT3.tr.png",
-      "group": "Spor",
-      "epgId": "TRT3.tr",
-      "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8"
-    },
+   
     {
       "name": "TRT Çocuk",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRTCocuk.tr.png",
@@ -120,13 +101,7 @@
       "epgId": "TRTCocuk.tr",
       "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
     },
-    {
-      "name": "TRT Türk",
-      "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRTTurk.tr.png",
-      "group": "Belgesel",
-      "epgId": "TRTTurk.tr",
-      "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8"
-    },
+    
     {
       "name": "TV 100",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV100.tr.png",
@@ -162,13 +137,7 @@
       "epgId": "Number1Dance.tr",
       "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8"
     },
-    {
-      "name": "NR1 FASHION ONE",
-      "logo": "https://i.ibb.co/HV0x9JZ/fashion-one.png",
-      "group": "Müzik",
-      "epgId": "",
-      "url": "http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8"
-    },
+    
     {
       "name": "TRT Muzik",
       "logo": "https://i.ibb.co/4gbPpzC/trt-muzik.png",
@@ -267,34 +236,15 @@
       "group": "Ulusal",
       "epgId": ""
     },
-    {
-      "name": "TRT 2",
-      "url": "https://tv-trt2.medya.trt.com.tr/master_720.m3u8",
-      "logo": "https://i.ibb.co/m5T5bQxB/Ads-z-tasar-m-2.png",
-      "group": "Ulusal",
-      "epgId": ""
-    },
-    {
-      "name": "TRT TURK",
-      "url": "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8",
-      "logo": "https://i.ibb.co/cSNfr17C/trturk.png",
-      "group": "Ulusal",
-      "epgId": ""
-    },
-    {
+    
+        {
       "name": "KANAL 7",
       "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8",
       "logo": "https://i.ibb.co/DPVDgvqn/Ads-z-tasar-m-1.png",
       "group": "Ulusal",
       "epgId": ""
     },
-    {
-      "name": "KANAL 7 AVRUPA",
-      "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8",
-      "logo": "https://i.ibb.co/xq3rRJV5/Ads-z-tasar-m-3.png",
-      "group": "Ulusal",
-      "epgId": ""
-    },
+    
     {
       "name": "BEYAZ TV",
       "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8",
@@ -323,13 +273,7 @@
       "group": "Ulusal",
       "epgId": ""
     },
-    {
-      "name": "LIFE TV",
-      "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8",
-      "logo": "https://i.ibb.co/9hCVNks/life-tv.png",
-      "group": "Ulusal",
-      "epgId": ""
-    },
+    
     {
       "name": "TRT SPOR",
       "url": "https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8",
@@ -337,21 +281,8 @@
       "group": "Spor",
       "epgId": ""
     },
-    {
-      "name": "TRT SPOR YILDIZ",
-      "url": "https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8",
-      "logo": "https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png",
-      "group": "Spor",
-      "epgId": ""
-    },
-    {
-      "name": "S SPORTS TV",
-      "url": "https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8",
-      "logo": "https://i.ibb.co/Q7qK4qQj/Ads-z-tasar-m-16.png",
-      "group": "Spor",
-      "epgId": ""
-    },
-    {
+    
+        {
       "name": "TJK TV",
       "url": "https://tjktv-live.tjk.org/tjktv_1080p.m3u8",
       "logo": "https://i.ibb.co/PrkXrRn/tjk-tv.png",
@@ -365,20 +296,7 @@
       "group": "Spor",
       "epgId": ""
     },
-    {
-      "name": "TRT BELGESEL",
-      "url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8",
-      "logo": "https://i.ibb.co/MkvY46q/trt-belgesel.png",
-      "group": "Belgesel",
-      "epgId": ""
-    },
-    {
-      "name": "TRT AVAZ",
-      "url": "https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8",
-      "logo": "https://i.ibb.co/Mnhmxsn/trt-avaz.png",
-      "group": "Belgesel",
-      "epgId": ""
-    },
+    
     {
       "name": "TRT HABER",
       "url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8",
@@ -386,14 +304,7 @@
       "group": "Ulusal Haber",
       "epgId": ""
     },
-    {
-      "name": "BLOOMBERG HT",
-      "url": "https://ensonhaber-live.ercdn.net/bloomberght/bloomberght.m3u8",
-      "logo": "https://i.ibb.co/0RhF7QQB/Ads-z-tasar-m-8.png",
-      "group": "Ulusal Haber",
-      "epgId": ""
-    },
-    {
+        {
       "name": "HABERTURK",
       "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8",
       "logo": "https://i.ibb.co/Q79Lh4Cb/Ads-z-tasar-m-9.png",
@@ -421,13 +332,7 @@
       "group": "Ulusal Haber",
       "epgId": ""
     },
-    {
-      "name": "BENGU TURK",
-      "url": "https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8",
-      "logo": "https://i.ibb.co/CHWhMvQ/bengu-turk.png",
-      "group": "Ulusal Haber",
-      "epgId": ""
-    },
+   
     {
       "name": "TGRT HABER HD",
       "url": "https://canli.tgrthaber.com/tgrt.m3u8",
@@ -477,13 +382,7 @@
       "group": "Çocuk & Eğitim",
       "epgId": ""
     },
-    {
-      "name": "Her An Kur'an",
-      "youtubeId": "9shisvrYqXM",
-      "logo": "https://i.ytimg.com/vi/9shisvrYqXM/hqdefault.jpg",
-      "group": "Dini",
-      "epgId": ""
-    },
+    
     {
       "name": "Lalegül TV",
       "youtubeId": "V7BRVvXZCzs",
@@ -505,14 +404,7 @@
       "group": "Ulusal Haber",
       "epgId": ""
     },
-    {
-      "name": "A PARA HD",
-      "youtubeId": "6-Q8v_e-M2g",
-      "logo": "https://i.ytimg.com/vi/6-Q8v_e-M2g/sddefault.jpg",
-      "group": "Ulusal Haber",
-      "epgId": ""
-    },
-    {
+        {
       "name": "Bein Sport Haber",
       "youtubeId": "9xVXWLwT0vA",
       "logo": "https://i.ytimg.com/vi/9xVXWLwT0vA/sddefault.jpg",
@@ -547,28 +439,7 @@
       "group": "Ulusal Haber",
       "epgId": ""
     },
-    {
-      "name": "Hz. Yusuf",
-      "youtubeId": "cC2IkMR4Vqs",
-      "logo": "https://i.ytimg.com/vi/cC2IkMR4Vqs/sddefault.jpg",
-      "group": "Dini",
-      "epgId": ""
-    },
-    {
-      "name": "Kuran Zamanı",
-      "youtubeId": "7nMlaVP0YXo",
-      "logo": "https://i.ytimg.com/vi/7nMlaVP0YXo/sddefault.jpg",
-      "group": "Dini",
-      "epgId": ""
-    },
-    {
-      "name": "Kur'an-ı Kerim",
-      "youtubeId": "9shisvrYqXM",
-      "logo": "https://i.ytimg.com/vi/9shisvrYqXM/sddefault.jpg",
-      "group": "Dini",
-      "epgId": ""
-    },
-    {
+        {
       "name": "Karadeniz Akustik",
       "youtubeId": "Fru_Ss-TqgY",
       "logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
@@ -582,27 +453,7 @@
       "group": "Belgesel",
       "epgId": ""
     },
-    {
-      "name": "TLC",
-      "youtubeId": "xQpAeE2eIfc",
-      "logo": "https://i.ytimg.com/vi/xQpAeE2eIfc/sddefault.jpg",
-      "group": "Belgesel",
-      "epgId": ""
-    },
-    {
-      "name": "NatureTime",
-      "youtubeId": "gC_YZh_OHRc",
-      "logo": "https://i.ytimg.com/vi/gC_YZh_OHRc/sddefault.jpg",
-      "group": "Belgesel",
-      "epgId": ""
-    },
-    {
-      "name": "TGRT Belgesel",
-      "youtubeId": "j9iJW9c04j4",
-      "logo": "https://i.ytimg.com/vi/j9iJW9c04j4/sddefault.jpg",
-      "group": "Belgesel",
-      "epgId": ""
-    },
+    
     {
       "name": "Rhythm Emotion",
       "youtubeId": "q9iTGiUtYik",
@@ -756,28 +607,7 @@
       "logo": "https://i.ytimg.com/vi/_pRHXDSK8sA/sddefault.jpg",
       "group": "Filmler",
       "epgId": ""
-    },
-    {
-      "name": "Sıfır Bir",
-      "youtubeId": "DftbeRzgYaw",
-      "logo": "https://i.ytimg.com/vi/DftbeRzgYaw/sddefault.jpg",
-      "group": "Filmler",
-      "epgId": ""
-    },
-    {
-      "name": "Aşk-ı Memnu",
-      "youtubeId": "JpP13Wp1ke0",
-      "logo": "https://i.ytimg.com/vi/JpP13Wp1ke0/sddefault.jpg",
-      "group": "Filmler",
-      "epgId": ""
-    },
-    {
-      "name": "Türk Filmleri",
-      "youtubeId": "5oBspbl9TWE",
-      "logo": "https://i.ytimg.com/vi/5oBspbl9TWE/sddefault.jpg",
-      "group": "Filmler",
-      "epgId": ""
-    }      
+    }
     
       ]
 }
