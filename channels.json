@@ -22,13 +22,7 @@
       "epgId": "HaberturkTV.tr",
       "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
     },
-    {
-      "name": "12.Haber Türk",
-      "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/HaberturkTV.tr.png",
-      "group": "Ulusal",
-      "epgId": "HaberturkTV.tr",
-      "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
-    },
+   
     {
       "name": "9.ATV HD 2",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/ATV.tr.png",
@@ -263,7 +257,7 @@
       "name": "18.360",
       "url": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8",
       "logo": "https://i.ibb.co/s3gJCGL/360.png",
-      "group": "Ulusal",
+      "group": "Ulusal Haber",
       "epgId": ""
     },
     {
@@ -404,18 +398,12 @@
       "group": "Spor",
       "epgId": ""
     },
-    {
-      "name": "A HABER HD",
-      "youtubeId": "nmY9i63t6qo",
-      "logo": "https://i.ytimg.com/vi/nmY9i63t6qo/sddefault.jpg",
-      "group": "Ulusal Haber",
-      "epgId": ""
-    },
+    
      {
       "name": "10. A HABER HD",
       "youtubeId": "nmY9i63t6qo",
       "logo": "https://i.ytimg.com/vi/nmY9i63t6qo/sddefault.jpg",
-      "group": "Ulusal",
+      "group": "Ulusal Haber",
       "epgId": ""
     },
         {
@@ -440,19 +428,13 @@
       "epgId": ""
     },
     {
-      "name": "CNN Türk",
+      "name": "12. CNN Türk",
       "youtubeId": "6N8_r2uwLEc",
       "logo": "https://i.ytimg.com/vi/6N8_r2uwLEc/sddefault.jpg",
       "group": "Ulusal Haber",
       "epgId": ""
     },
-      {
-      "name": "12. CNN Türk",
-      "youtubeId": "6N8_r2uwLEc",
-      "logo": "https://i.ytimg.com/vi/6N8_r2uwLEc/sddefault.jpg",
-      "group": "Ulusal",
-      "epgId": ""
-    },
+     
     {
       "name": "Haber Global",
       "youtubeId": "EqoCJ8BPxtE",
@@ -460,13 +442,7 @@
       "group": "Ulusal Haber",
       "epgId": ""
     },
-       {
-      "name": "15. Haber Global",
-      "youtubeId": "EqoCJ8BPxtE",
-      "logo": "https://i.ytimg.com/vi/EqoCJ8BPxtE/sddefault.jpg",
-      "group": "Ulusal",
-      "epgId": ""
-    },
+       
         {
       "name": "Karadeniz Akustik",
       "youtubeId": "Fru_Ss-TqgY",
