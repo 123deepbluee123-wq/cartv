@@ -8,6 +8,76 @@
       "epgId": "BeyazTV.tr",
       "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8"
     },
+     {
+      "name": "Nem Kaldı ",
+      "youtubeId": "na1kcFLe1Yo",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "group": "EDHO",
+      "epgId": ""
+    },
+    {
+      "name": "Minnet Eylemem",
+      "youtubeId": "N7VlPV7mLMM",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "group": "EDHO",
+      "epgId": ""
+    },
+    {
+      "name": "Çeşmi Siyahım",
+      "youtubeId": "eJCDdjOodUE",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "group": "EDHO",
+      "epgId": ""
+    },
+    {
+      "name": "Yolun Sonu",
+      "youtubeId": "cuHH0kComrU",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "group": "EDHO",
+      "epgId": ""
+    },
+    {
+      "name": "Giresun İçinde",
+      "youtubeId": "x-Qmlb1pd5A",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "group": "EDHO",
+      "epgId": ""
+    },
+    {
+      "name": "Şu Kanlı Zalimin",
+      "youtubeId": "qv5pT7Qw01c",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "group": "EDHO",
+      "epgId": ""
+    },
+     {
+      "name": "Üryan Geldim",
+      "youtubeId": "gYZMtjPk8jc",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "group": "EDHO",
+      "epgId": ""
+    },
+     {
+      "name": "Böyledir Bizim Sevdamız",
+      "youtubeId": "TtwgA1r8mPo",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "group": "EDHO",
+      "epgId": ""
+    },
+     {
+      "name": "Dolanı Dolanı",
+      "youtubeId": "YI7LfBKpdM0",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "group": "EDHO",
+      "epgId": ""
+    },
+    {
+      "name": "Susarak Özlüyorum",
+      "youtubeId": "fYOXs7pjirA",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "group": "EDHO",
+      "epgId": ""
+    },
     {
       "name": "A SPOR",
       "logo": "https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png",
@@ -480,13 +550,6 @@
      {
       "name": "Karadeniz ",
       "youtubeId": "PV1kDalcvVE",
-      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
-      "group": "Müzik",
-      "epgId": ""
-    },
-    {
-      "name": "Ahmet Aslan EDHO ",
-      "youtubeId": "iJdIDGZyg60",
       "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
       "group": "Müzik",
       "epgId": ""
