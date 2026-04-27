@@ -15,7 +15,6 @@
       "epgId": "Spor",
       "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8"
     },
-   
     {
       "name": "2. Haber Türk",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/HaberturkTV.tr.png",
@@ -23,7 +22,6 @@
       "epgId": "HaberturkTV.tr",
       "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
     },
-
     {
       "name": "2. Haber Türk 1",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/HaberturkTV.tr.png",
@@ -31,7 +29,6 @@
       "epgId": "HaberturkTV.tr",
       "youtubeId": "RNVNlJSUFoE"
     },
-   
     {
       "name": "9.ATV HD 2",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/ATV.tr.png",
@@ -53,7 +50,6 @@
       "epgId": "Kanal7.tr",
       "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8"
     },
-    
     {
       "name": "2.Kanal D",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/KanalD.tr.png",
@@ -110,7 +106,6 @@
       "epgId": "StarTV.tr",
       "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8"
     },
-   
     {
       "name": "TRT Çocuk",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRTCocuk.tr.png",
@@ -132,7 +127,7 @@
       "group": "Ulusal Haber",
       "epgId": "ulketv.tr"
     },
-        {
+    {
       "name": "3.TV 100-",
       "logo": "https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV100.tr.png",
       "group": "Ulusal Haber",
@@ -174,7 +169,6 @@
       "epgId": "Number1Dance.tr",
       "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8"
     },
-    
     {
       "name": "TRT Muzik",
       "logo": "https://i.ibb.co/4gbPpzC/trt-muzik.png",
@@ -273,15 +267,13 @@
       "group": "Ulusal",
       "epgId": ""
     },
-    
-        {
+    {
       "name": "7. KANAL 7",
       "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8",
       "logo": "https://i.ibb.co/DPVDgvqn/Ads-z-tasar-m-1.png",
       "group": "Ulusal",
       "epgId": ""
     },
-    
     {
       "name": "6. BEYAZ TV",
       "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8",
@@ -310,7 +302,6 @@
       "group": "Ulusal",
       "epgId": ""
     },
-    
     {
       "name": "TRT SPOR",
       "url": "https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8",
@@ -318,8 +309,7 @@
       "group": "Spor",
       "epgId": ""
     },
-    
-        {
+    {
       "name": "TJK TV",
       "url": "https://tjktv-live.tjk.org/tjktv_1080p.m3u8",
       "logo": "https://i.ibb.co/PrkXrRn/tjk-tv.png",
@@ -333,7 +323,6 @@
       "group": "Spor",
       "epgId": ""
     },
-    
     {
       "name": "6. TRT HABER",
       "url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8",
@@ -341,7 +330,7 @@
       "group": "Ulusal Haber",
       "epgId": ""
     },
-        {
+    {
       "name": "2. HABERTURK",
       "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8",
       "logo": "https://i.ibb.co/Q79Lh4Cb/Ads-z-tasar-m-9.png",
@@ -376,7 +365,6 @@
       "group": "Ulusal Haber",
       "epgId": ""
     },
-   
     {
       "name": "5.TGRT HABER HD",
       "url": "https://canli.tgrthaber.com/tgrt.m3u8",
@@ -433,8 +421,6 @@
       "group": "Çocuk & Eğitim",
       "epgId": ""
     },
-    
-    
     {
       "name": "A SPOR HD",
       "youtubeId": "mgeW8Qm8-SY",
@@ -442,15 +428,14 @@
       "group": "Spor",
       "epgId": ""
     },
-    
-     {
+    {
       "name": "1. A HABER HD",
       "youtubeId": "nmY9i63t6qo",
       "logo": "https://i.ytimg.com/vi/nmY9i63t6qo/sddefault.jpg",
       "group": "Ulusal Haber",
       "epgId": ""
     },
-        {
+    {
       "name": "Bein Sport Haber",
       "youtubeId": "9xVXWLwT0vA",
       "logo": "https://i.ytimg.com/vi/9xVXWLwT0vA/sddefault.jpg",
@@ -478,7 +463,6 @@
       "group": "Ulusal Haber",
       "epgId": ""
     },
-     
     {
       "name": "3. Haber Global",
       "youtubeId": "EqoCJ8BPxtE",
@@ -599,7 +583,6 @@
       "group": "Çocuk & Eğitim",
       "epgId": ""
     },
-    
     {
       "name": "Sonbahar",
       "youtubeId": "-ZFtmVIDg9I",
