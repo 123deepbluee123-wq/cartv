@@ -8,6 +8,20 @@
       "epgId": "BeyazTV.tr",
       "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8"
     },
+     {
+      "name": "Selim Bölükbaşı - Kapıya Sandalye ",
+      "youtubeId": "XWNGrb97P8c",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "group": "KRDNZ",
+      "epgId": ""
+    },
+    {
+      "name": "Hülya Polat - Gaybana  ",
+      "youtubeId": "RHviZcnh_zE",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "group": "KRDNZ",
+      "epgId": ""
+    },
     {
       "name": "Aylin Demir - Müjgan  ",
       "youtubeId": "nZhfo7G_JfY",
