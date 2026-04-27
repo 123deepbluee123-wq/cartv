@@ -8,9 +8,44 @@
       "epgId": "BeyazTV.tr",
       "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8"
     },
+    {
+      "name": "Aylin Demir - Müjgan  ",
+      "youtubeId": "nZhfo7G_JfY",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "group": "KRDNZ",
+      "epgId": ""
+    },
+    {
+      "name": "Tulum Horon Potpori ",
+      "youtubeId": "olgBiI1sY9o",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "group": "KRDNZ",
+      "epgId": ""
+    },
+    {
+      "name": "Apolas Lermi - Bir Baktım ",
+      "youtubeId": "HTMGLfBX_7g",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "group": "KRDNZ",
+      "epgId": ""
+    },
+    {
+      "name": "Resul Dindar - Gümüşhane Kızları ",
+      "youtubeId": "VPNx4UDohUk",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "group": "KRDNZ",
+      "epgId": ""
+    },
      {
       "name": "O.Şahin Kalem Çektim ",
       "youtubeId": "T6wbun1gpMs",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "group": "KRDNZ",
+      "epgId": ""
+    },
+    {
+      "name": "O.Şahin Eygidi günler ",
+      "youtubeId": "gOVYxDS_l_w",
       "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
       "group": "KRDNZ",
       "epgId": ""
