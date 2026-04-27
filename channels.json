@@ -8,6 +8,27 @@
       "epgId": "BeyazTV.tr",
       "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8"
     },
+    {
+      "name": "Asırlık Şu Çınara ",
+      "youtubeId": "lQ5QBlF85Hc",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "group": "KRDNZ",
+      "epgId": ""
+    },
+    {
+      "name": "Hilmi Yerekaban - Virane Kıranlara ",
+      "youtubeId": "mXx6h1B3mY8",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "group": "KRDNZ",
+      "epgId": ""
+    },
+     {
+      "name": "Zeynep Başkan - Çayluk ",
+      "youtubeId": "f6LrFjj9agI",
+      "X-logo": "https://i.ytimg.com/vi/Fru_Ss-TqgY/sddefault.jpg",
+      "group": "KRDNZ",
+      "epgId": ""
+    },
      {
       "name": "Selim Bölükbaşı - Kapıya Sandalye ",
       "youtubeId": "XWNGrb97P8c",
